@@ -4,3 +4,4 @@
 Demo lại giao diện đặt vé
 ### Ngôn ngữ
 HTML, CSS, JavaScript
+#### Deploy
